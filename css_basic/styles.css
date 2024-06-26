@@ -13,6 +13,7 @@ main {
 
 article {
   flex: 2;
+  background-color: azure;
 }
 
 aside {
@@ -21,4 +22,8 @@ aside {
 
 article, aside {
   overflow-y: auto;
+}
+
+.logo {
+  font-size: 30px;
 }
